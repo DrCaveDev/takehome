@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Property tests: renders without crashing 1`] = `
+<div
+  className="property"
+>
+  <div
+    className="property-image-wrapper"
+  >
+    <img
+      alt="Home at 21 Lonesome Drive, Irvington, CA"
+      className="property-image"
+    />
+    <div
+      className="favorite-heart"
+    >
+      <img
+        alt="Favorite icon (Not Favorited)"
+        className="fill-parent"
+        onClick={[Function]}
+        src="heart-stroke.svg"
+      />
+    </div>
+  </div>
+  <div
+    className="meta-text"
+  >
+    <div
+      className="general-info"
+    >
+      5
+       BR | 
+      2.5
+       Bath | 
+      2400
+       Sq Ft
+    </div>
+    <div
+      className="price-info"
+    >
+      $650,000
+    </div>
+    <div
+      className="address-info"
+    >
+      21 Lonesome Drive, Irvington, CA
+    </div>
+    <div
+      className="listed-info"
+    >
+      Listed: 
+      1/3/2021
+    </div>
+  </div>
+</div>
+`;

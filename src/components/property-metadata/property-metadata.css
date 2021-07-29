@@ -1,0 +1,30 @@
+.meta-text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 32px;
+    color: #2D2D2D;
+}
+
+.general-info {
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 11px;
+}
+
+.price-info {
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+
+.address-info {
+    font-size: 15px;
+    max-width: 315px;
+}
+
+.listed-info {    
+    font-size: 14px;
+    color: #979797;
+}

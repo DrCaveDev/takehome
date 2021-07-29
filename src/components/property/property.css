@@ -1,0 +1,22 @@
+.property {
+    padding: 30px 30px 0 30px;
+}
+
+.property-image-wrapper {
+    width: 315px;    
+    height: 252.25px;
+    position: relative;
+}
+
+.property-image {
+    max-width: 100%;
+    border-radius: 4px;
+}
+
+.favorite-heart {
+    position: absolute;
+    top: 17.88px;
+    right: 13.92px;
+    width: 39.17px;
+    height: 35.94px;
+}

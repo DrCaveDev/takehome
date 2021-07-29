@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FavoriteHeart tests: SVG changes when clicked 1`] = `
+<img
+  alt="Favorite icon (Not Favorited)"
+  className="fill-parent"
+  onClick={[Function]}
+  src="heart-stroke.svg"
+/>
+`;
+
+exports[`FavoriteHeart tests: SVG changes when clicked 2`] = `
+<img
+  alt="Favorite icon (Favorited)"
+  className="fill-parent"
+  onClick={[Function]}
+  src="heart-fill.svg"
+/>
+`;
+
+exports[`FavoriteHeart tests: SVG changes when clicked 3`] = `
+<img
+  alt="Favorite icon (Not Favorited)"
+  className="fill-parent"
+  onClick={[Function]}
+  src="heart-stroke.svg"
+/>
+`;
